@@ -45,7 +45,7 @@ Hệ thống bao gồm:
 
 - **Application (Mobile/Desktop)**: Ứng dụng dành cho người dùng cuối, chịu trách nhiệm cung cấp giao diện và trải nghiệm đầy đủ.
 - **Website (Web App)**: Trang web cho người dùng, phục vụ cho việc truy cập từ trình duyệt, cung cấp chức năng tương tự ứng dụng.
-- **API (Backend)**: Ứng dụng để giao diện người dùng tương tác với phía máy chủ. Được xây dựng theo kiến trúc **Microservices** (sẽ được mô tả chi tiết trong `ARCHITECTURE.md`).
+- **API (Backend)**: Ứng dụng để giao diện người dùng tương tác với phía máy chủ. Được xây dựng theo kiến trúc **Microservices** (sẽ được mô tả chi tiết trong repository của api).
 
 ---
 
@@ -175,4 +175,4 @@ Rust có các quy tắc đặt tên riêng biệt và nghiêm ngặt để phân
 
 ## Ví dụ / Tutorial
 
-Thư mục `examples/` chứa các ví dụ nhỏ, tự chứa, giúp bạn nhanh chóng làm quen với **cấu trúc thư mục**, **cách đặt tên**, và **best practices** cho từng ngôn ngữ/framework:
+Thư mục `examples/` chứa các ví dụ nhỏ, tự chứa, giúp bạn nhanh chóng làm quen với **cấu trúc thư mục**, **cách đặt tên**, và **best practices** cho từng ngôn ngữ/framework
