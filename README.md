@@ -176,8 +176,3 @@ Rust có các quy tắc đặt tên riêng biệt và nghiêm ngặt để phân
 ## Ví dụ / Tutorial
 
 Thư mục `examples/` chứa các ví dụ nhỏ, tự chứa, giúp bạn nhanh chóng làm quen với **cấu trúc thư mục**, **cách đặt tên**, và **best practices** cho từng ngôn ngữ/framework:
-
-- **examples/rust**: Ví dụ về cấu trúc một Microservice Rust điển hình.
-- **examples/golang**: Ví dụ về cấu trúc Golang API với error handling.
-- **examples/flutter**: Ví dụ về cách quản lý state và cấu trúc thư mục.
-- **examples/react**: Ví dụ về tổ chức component và sử dụng hooks.
