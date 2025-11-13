@@ -56,7 +56,6 @@ Commit message cần theo cấu trúc như sau:
 [optional body]
 
 [optional footer]
-
 ```
 
 - **fix:** Sửa lỗi (Tương đương với `PATCH` trong semantic versioning)
