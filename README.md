@@ -120,9 +120,10 @@ Chúng ta sử dụng một biến thể của **Git Flow** đơn giản hóa, t
 
 3.  **Yêu cầu Hợp nhất (Pull/Merge Request)**:
 
-    - Khi hoàn thành, tạo **Pull Request (PR)** từ nhánh của bạn vào nhánh **`develop`**.
+    - Khi hoàn thành, tạo **Pull Request (PR)** từ nhánh của bạn vào nhánh **`dev`**.
     - **Bắt buộc** phải có ít nhất **một** reviewer chấp thuận trước khi merge.
-    - Sử dụng tùy chọn **Squash and Merge** khi merge để giữ lịch sử khi commit trên nhánh `main` và nhánh `develop` gọn gàng, mỗi PR tương ứng với một commit duy nhất tuân thủ quy chuẩn commit.
+    - Sử dụng tùy chọn **Squash and Merge** khi merge để giữ lịch sử khi commit trên nhánh `main` gọn gàng, mỗi PR tương ứng với một commit duy nhất tuân thủ quy chuẩn commit.
+    - Sử dụng tuỳ chọn **Rebase, then create merge commit** cho nhánh nhánh `dev` để đảm bảo lưu giữ thông báo, tiêu đề sửa đổi, và theo dõi lịch sử commit.
 
 4.  **Kiểm tra và Tự động hóa (CI/CD)**:
 
