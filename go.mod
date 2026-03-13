@@ -1,3 +1,3 @@
-module invite-api
+module overlix-backend
 
 go 1.25.0
